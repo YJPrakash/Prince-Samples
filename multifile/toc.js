@@ -1,3 +1,5 @@
+// pdftk toc.pdf cat 2-end output toc1.pdf
+// Remove First Page Pdf creator Logo in pdf.
 function getText(e) {
 	var text = "";
 
