@@ -8,10 +8,7 @@
   },
   "author": "YJPrakash",
   "license": "ISC",
-  "dependencies": {
-    "node-pdftk": "^2.0.2",
-    "prince": "^1.6.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
